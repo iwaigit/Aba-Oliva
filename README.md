@@ -1,4 +1,4 @@
-## Aba & Oliva - Franelas con Tumbao 🇻🇪
+#Aba & Oliva - Franelas con Tumbao 🇻🇪
 
 > **Aba & Oliva** es un emprendimiento venezolano de moda urbana que transforma la jerga, los modismos y el humor autóctono en piezas de diseño textil de alta calidad.
 
